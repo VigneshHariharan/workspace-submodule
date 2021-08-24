@@ -1,0 +1,8 @@
+{
+  "name": "workspace-submodule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/VigneshHariharan/workspace-submodule.git",
+  "author": "VigneshHariharan <phvigneshariharan@gmail.com>",
+  "license": "MIT"
+}
