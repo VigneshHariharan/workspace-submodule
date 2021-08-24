@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/VigneshHariharan/workspace-submodule.git",
   "author": "VigneshHariharan <phvigneshariharan@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
 }
